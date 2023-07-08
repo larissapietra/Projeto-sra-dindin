@@ -135,6 +135,12 @@ address .botao {
         text-align: center;
         
     }
+    main .sabor .informacoes span {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+    
+    h3 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+
 }
-
-
